@@ -20,6 +20,13 @@ A collection of AWS HealthOmics workflows to accelerate drug discovery.
 - [NanobodyBuilder2](https://github.com/oxpig/ImmuneBuilder): From Oxford Protein Informatics Group. Predict the 3D structure of single-chain nanobodies.
 - [RFDiffusion-ProteinMPNN](https://github.com/aws-samples/drug-discovery-workflows/tree/main/assets/workflows/rfdiffusion-proteinmpnn): From the Institute for Protein Design at the University of Washington. Generate protein backbone structures and sequences given a binding target or other structural context.
 
+<p align="center">
+  <img src="./img/NVIDIA-logo-white-16x9.png" width=200pt; />
+  <img src="./img/aalphabio-vert-main-fullcolor-reversed.png" width=200pt; />
+  <img src="./img/AmgenBlueLogo.png" width=150pt; />
+</p>
+
+
 ### E2E Workflows
 
 - [Design Nanobodies](https://github.com/aws-samples/drug-discovery-workflows/tree/main/assets/workflows/design-nanobodies): Generate de novo nanobody candidates against a given target protein structure and epitope using RFDiffusion, ProteinMPNN, ESMFold, AMPLIFY, and NanobodyBuilder2.
